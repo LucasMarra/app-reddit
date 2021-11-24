@@ -35,3 +35,6 @@
 1. Execute `npm run start`.<br /> 
 2. Abra http://localhost:3000/
 3. Divirta-se codificando!
+
+## Documentação de referência para subir projetos Rails no Heroku
+https://devcenter.heroku.com/articles/getting-started-with-rails6
